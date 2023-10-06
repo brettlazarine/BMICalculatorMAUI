@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "V+s+kshk2LD0aaO9IkMYMeb1swP4aP6ZsDGJ7R+yn0RqQr7dfKH1fiJ9GkFKueXttuGBfttwt3ZMGVQZWwgoog==",
+  "dgSpecHash": "j7At0z2JTEsOW7q2cdbrlLVSHWUxhH23v7KJlKLTnZYbSuamikKyqG9SgzoNBEIQmzUAjB5uLK6OR6BIyys/OA==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\MAUI\\BMICalculatorMAUI\\BMICalculator\\BMICalculator\\BMICalculator.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jblaz\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
@@ -19,6 +20,10 @@
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\7.0.86\\microsoft.maui.graphics.win2d.winui.desktop.7.0.86.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.221209.1\\microsoft.windowsappsdk.1.2.221209.1.nupkg.sha512",
+    "C:\\Users\\jblaz\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
+    "C:\\Users\\jblaz\\.nuget\\packages\\syncfusion.licensing\\23.1.39\\syncfusion.licensing.23.1.39.nupkg.sha512",
+    "C:\\Users\\jblaz\\.nuget\\packages\\syncfusion.maui.core\\23.1.39\\syncfusion.maui.core.23.1.39.nupkg.sha512",
+    "C:\\Users\\jblaz\\.nuget\\packages\\syncfusion.maui.gauges\\23.1.39\\syncfusion.maui.gauges.23.1.39.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\xamarin.android.glide\\4.13.2.2\\xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\xamarin.android.glide.annotations\\4.13.2.2\\xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\xamarin.android.glide.disklrucache\\4.13.2.2\\xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",
